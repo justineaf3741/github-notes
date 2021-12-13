@@ -1,1 +1,1 @@
-# githun-notes
+# github-notes
